@@ -1,10 +1,6 @@
----
-description: Cloud Z Home Portal 사용방법 안내서
----
+# Cloud Z 로그인
 
-# 홈포털 사용자 가이드
-
-## Getting Super Powers
+## Cloud Z 포털 접속
 
 Becoming a super hero is a fairly straight forward process:
 
